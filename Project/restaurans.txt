@@ -1,0 +1,7 @@
+Laguna	pizza	15
+Tonique	lounge	25
+Casa Blanca	caffe	50
+temple	lounge	10
+Gradina de vara	bere	4
+pita poket	fast food	10
+wala wala	saman	1500
